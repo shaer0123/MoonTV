@@ -80,5 +80,7 @@
     "豪华": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
   }
+    "红牛": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
   
 }
