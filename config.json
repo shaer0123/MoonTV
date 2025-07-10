@@ -84,4 +84,6 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
   "极速": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-}
+    
+ "如意": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
