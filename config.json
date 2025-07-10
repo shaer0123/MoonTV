@@ -82,5 +82,6 @@
   }
     "红牛": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-  
+  "极速": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
 }
