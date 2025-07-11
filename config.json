@@ -79,11 +79,15 @@
     }
     "豪华": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
-  }
+   }
     "红牛": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+   }   "api": "https://www.hongniuzy2.com/api.php/provide/vod",
   "极速": {
       "api": "https://jszyapi.com/api.php/provide/vod",
+     } 
+    "蜂巢": {
+      "api": "https://fczy908.com/index.php/vod",   
     
  "如意": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
+ {
